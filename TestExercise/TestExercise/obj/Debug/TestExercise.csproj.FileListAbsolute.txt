@@ -1,0 +1,10 @@
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\bin\Debug\TestExercise.exe.config
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\bin\Debug\TestExercise.exe.manifest
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\bin\Debug\TestExercise.application
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\bin\Debug\TestExercise.exe
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\bin\Debug\TestExercise.pdb
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\obj\Debug\TestExercise.csproj.CoreCompileInputs.cache
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\obj\Debug\TestExercise.exe.manifest
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\obj\Debug\TestExercise.application
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\obj\Debug\TestExercise.exe
+C:\Users\R2D20\source\repos\TestExercise\TestExercise\obj\Debug\TestExercise.pdb
